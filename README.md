@@ -1,22 +1,29 @@
-<!-- Banner animado de boas-vindas -->
+<!-- Banner animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=180&section=header&text=Henrique%20Radesca%20🚀&fontSize=40&fontColor=fff&animation=fadeIn" />
 
-##  Sobre mim
-💻 Desenvolvedor e designer com foco em soluções web elegantes e funcionais  
+## 👋 Sobre mim
+💻 Desenvolvedor e designer apaixonado por criar soluções criativas e funcionais  
 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🎨 Apaixonado por UI/UX, prototipagem e tecnologia criativa
+🎨 Experiência com design digital, prototipagem e UI/UX  
+📚 Sempre explorando novas linguagens e tecnologias
 
 ---
 
-##  Tecnologias & Ferramentas
+## 🛠 Tecnologias & Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-##  Projetos em Destaque
+## 📌 Projetos em Destaque
 [![EXERCICIOS-C--](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=EXERCICIOS-C--&theme=tokyonight)](https://github.com/Radesca/EXERCICIOS-C--)
 [![Facebook-Login-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Facebook-Login-Clone&theme=tokyonight)](https://github.com/Radesca/Facebook-Login-Clone)
 [![Instagram-Login-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Instagram-Login-Clone&theme=tokyonight)](https://github.com/Radesca/Instagram-Login-Clone)
@@ -26,13 +33,23 @@
 
 ---
 
-##  Estatísticas
+## 📂 Outros Projetos
+[![Clone-Netflix](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Clone-Netflix&theme=tokyonight)](https://github.com/Radesca/Clone-Netflix)
+[![Calculadora-JS](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Calculadora-JS&theme=tokyonight)](https://github.com/Radesca/Calculadora-JS)
+[![Sistema-Login-PHP](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Sistema-Login-PHP&theme=tokyonight)](https://github.com/Radesca/Sistema-Login-PHP)
+[![ToDo-List-Python](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=ToDo-List-Python&theme=tokyonight)](https://github.com/Radesca/ToDo-List-Python)
+[![API-REST-NodeJS](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=API-REST-NodeJS&theme=tokyonight)](https://github.com/Radesca/API-REST-NodeJS)
+[![Portfolio-HTML](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Portfolio-HTML&theme=tokyonight)](https://github.com/Radesca/Portfolio-HTML)
+
+---
+
+## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&theme=tokyonight)
 
 ---
 
-##  Onde me encontrar
+## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-radesca-517080274/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquedradesca@gmail.com)
 
