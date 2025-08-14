@@ -13,33 +13,32 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📌 Projetos em Destaque
+[![EXERCICIOS-C](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=EXERCICIOS-C&theme=tokyonight)](https://github.com/Radesca/EXERCICIOS-C)
 [![EXERCICIOS-C--](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=EXERCICIOS-C--&theme=tokyonight)](https://github.com/Radesca/EXERCICIOS-C--)
-[![Facebook-Login-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Facebook-Login-Clone&theme=tokyonight)](https://github.com/Radesca/Facebook-Login-Clone)
-[![Instagram-Login-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Instagram-Login-Clone&theme=tokyonight)](https://github.com/Radesca/Instagram-Login-Clone)
-[![LP-CONF-REM-E-BNI](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=LP-CONF-REM-E-BNI&theme=tokyonight)](https://github.com/Radesca/LP-CONF-REM-E-BNI)
-[![MilesMorales-HomePage-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=MilesMorales-HomePage-Clone&theme=tokyonight)](https://github.com/Radesca/MilesMorales-HomePage-Clone)
+[![PortalDenuncia-Reformulado](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=PortalDenuncia-Reformulado&theme=tokyonight)](https://github.com/Radesca/PortalDenuncia-Reformulado)
 [![SITE-REMSOFT](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=SITE-REMSOFT&theme=tokyonight)](https://github.com/Radesca/SITE-REMSOFT)
+[![LP-CONF-REM-E-BNI](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=LP-CONF-REM-E-BNI&theme=tokyonight)](https://github.com/Radesca/LP-CONF-REM-E-BNI)
+[![PortFolio](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=PortFolio&theme=tokyonight)](https://github.com/Radesca/PortFolio)
 
 ---
 
 ## 📂 Outros Projetos
-[![Clone-Netflix](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Clone-Netflix&theme=tokyonight)](https://github.com/Radesca/Clone-Netflix)
-[![Calculadora-JS](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Calculadora-JS&theme=tokyonight)](https://github.com/Radesca/Calculadora-JS)
-[![Sistema-Login-PHP](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Sistema-Login-PHP&theme=tokyonight)](https://github.com/Radesca/Sistema-Login-PHP)
-[![ToDo-List-Python](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=ToDo-List-Python&theme=tokyonight)](https://github.com/Radesca/ToDo-List-Python)
-[![API-REST-NodeJS](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=API-REST-NodeJS&theme=tokyonight)](https://github.com/Radesca/API-REST-NodeJS)
-[![Portfolio-HTML](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Portfolio-HTML&theme=tokyonight)](https://github.com/Radesca/Portfolio-HTML)
+[![Flepic-iPaas](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Flepic-iPaas&theme=tokyonight)](https://github.com/Radesca/Flepic-iPaas)
+[![LP-EmDesenvolvimento-PostAI-REMSOFT](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=LP-EmDesenvolvimento-PostAI-REMSOFT&theme=tokyonight)](https://github.com/Radesca/LP-EmDesenvolvimento-PostAI-REMSOFT)
+[![LP-PortalDenuncias-REMSOFT](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=LP-PortalDenuncias-REMSOFT&theme=tokyonight)](https://github.com/Radesca/LP-PortalDenuncias-REMSOFT)
+[![LP-Login-PostAI-REMSOFT](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=LP-Login-PostAI-REMSOFT&theme=tokyonight)](https://github.com/Radesca/LP-Login-PostAI-REMSOFT)
+[![Facebook-Login-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Facebook-Login-Clone&theme=tokyonight)](https://github.com/Radesca/Facebook-Login-Clone)
+[![MilesMorales-HomePage-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=MilesMorales-HomePage-Clone&theme=tokyonight)](https://github.com/Radesca/MilesMorales-HomePage-Clone)
+[![Instagram-Login-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Radesca&repo=Instagram-Login-Clone&theme=tokyonight)](https://github.com/Radesca/Instagram-Login-Clone)
 
 ---
 
