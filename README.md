@@ -43,7 +43,7 @@
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800&v=2) 
 
 ---
 
