@@ -67,6 +67,9 @@
   <a href="https://github.com/Radesca/EXERCICIOS-C--">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=EXERCICIOS-C--&theme=tokyonight&cache_seconds=86400&v=5"/>
   </a>
+    <a href="https://github.com/Radesca/Exercicio-Revisao">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=Exercicio-Revisao&theme=tokyonight&cache_seconds=86400&v=5"/>
+  </a>
 </p>
 
 ---
