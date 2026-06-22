@@ -1,7 +1,7 @@
 <h1 align="center">Henrique Radesca 🚀</h1>
 
 <p align="center">
-  Desenvolvedor • Designer • Criador de Conteúdo
+  Desenvolvedor • Designer 
 </p>
 
 <p align="center">
