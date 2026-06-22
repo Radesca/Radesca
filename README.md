@@ -8,44 +8,45 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=Desenvolvedor+Front-End;UI%2FUX+Designer;Criando+Projetos+Reais;Estudante+de+ADS;Sempre+Aprendendo+Algo+Novo" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Henrique%20Radesca&fontSize=40&fontColor=ffffff"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=40&fontColor=ffffff"/>
 
 ---
 
-## 👋 Sobre Mim
+# 👋 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, design e desenvolvimento web.
+💻 Desenvolvedor Front-End apaixonado por criar interfaces modernas e funcionais.
 
-Atualmente foco meus estudos em:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 💻 Desenvolvimento Front-End
-- 🎨 UI/UX Design
-- ⚙️ PHP
-- 🗄️ Banco de Dados
-- 🚀 Criação de projetos reais
+🎨 UI/UX Designer com foco em experiência do usuário.
 
-Meu objetivo é construir soluções modernas, intuitivas e que gerem impacto real para pessoas e empresas.
+🚀 Sempre buscando aprender novas tecnologias e desenvolver projetos reais.
 
 ---
 
-## 📊 Estatísticas
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&theme=tokyonight&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&theme=tokyonight&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&theme=tokyonight&border_radius=15&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Conquistas
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Radesca&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Radesca&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,figma" />
@@ -53,23 +54,31 @@ Meu objetivo é construir soluções modernas, intuitivas e que gerem impacto re
 
 ---
 
-## 🚀 Projetos em Destaque
+# ⚡ Ferramentas
 
-### 🎵 Comunidade Sonora
-Plataforma desenvolvida para divulgação gratuita de artistas locais.
-
-### 🛡️ Portal Denúncia Reformulado
-Sistema web focado em usabilidade e gestão de denúncias.
-
-### ⚙️ Flepic iPaaS
-Landing page e plataforma voltada para automação e integração de processos.
-
-### 🌐 Landing Pages Profissionais
-Projetos desenvolvidos com foco em conversão, performance e experiência do usuário.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=windows,chrome,figma,github,vscode,discord" />
+</p>
 
 ---
 
-## 📖 Atualmente
+# 🚀 Projetos
+
+### 🎵 Comunidade Sonora
+Plataforma para divulgação gratuita de artistas locais.
+
+### 🛡️ Portal Denúncia
+Sistema focado em usabilidade e organização de denúncias.
+
+### ⚙️ Flepic iPaaS
+Landing page e plataforma para automação de processos.
+
+### 🌐 Landing Pages
+Criação de páginas modernas focadas em conversão e performance.
+
+---
+
+# 📚 Atualmente
 
 ```yaml
 Curso:
@@ -82,20 +91,32 @@ Estudando:
   - UI/UX Design
 
 Desenvolvendo:
-  - Projetos Front-End
-  - Landing Pages
   - Sistemas Web
+  - Landing Pages
+  - Projetos Front-End
 ```
 
-## ⚡ Ferramentas
+---
+
+# 📈 Atividade
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=windows,chrome,figma,github,vscode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radesca&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌎 Contato
+# 🎯 Objetivos para 2026
+
+- 🚀 Conseguir minha primeira vaga como desenvolvedor
+- 💻 Evoluir no Front-End
+- 🎨 Aprimorar UI/UX Design
+- 📚 Concluir ADS
+- 🌐 Construir um portfólio sólido
+
+---
+
+# 🌎 Contato
 
 <p align="center">
 
@@ -111,10 +132,16 @@ Desenvolvendo:
 
 ---
 
-## 👀 Visitantes
+# 👀 Visitantes
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Radesca&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
