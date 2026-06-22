@@ -27,7 +27,7 @@ Atualmente foco em criar interfaces modernas, acessíveis e funcionais.
 ## 🛠️ Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
 </p>
 
 <p align="left">
@@ -39,16 +39,16 @@ Atualmente foco em criar interfaces modernas, acessíveis e funcionais.
 ## 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=donut&theme=midnight-purple&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=donut&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
 
 ## 🚀 Atualmente
 
-- 📚 Estudando ADS
+- 📚 Estudando Análise e Desenvolvimento de Sistemas
 - 💻 Desenvolvendo projetos web
 - 🎨 Aprimorando habilidades em UI/UX
 - ⚙️ Evoluindo em JavaScript e PHP
