@@ -1,113 +1,63 @@
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=180&section=header&text=Henrique%20Radesca%20🚀&fontSize=40&fontColor=fff&animation=fadeIn" />
+<h1 align="center">Henrique Radesca 🚀</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henrique-radesca-517080274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:henriquedradesca@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  Desenvolvedor • Designer • Criador de Conteúdo
 </p>
-
-<h2 align="center">👋 Sobre mim</h2>
 
 <p align="center">
-  💻 Desenvolvedor e Designer focado em soluções criativas e funcionais<br/>
-  🚀 Estudante de <b>Análise e Desenvolvimento de Sistemas</b><br/>
-  🎨 UI/UX • Prototipagem • Identidade Visual<br/>
-  📚 Construindo projetos reais enquanto aprendo
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;Designer+UI%2FUX;Criando+Projetos+Reais;Estudante+de+ADS;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 ---
 
-# 🛠 Stack & Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🚀 Projetos Profissionais
-> Projetos voltados a produto, landing pages e soluções reais.
+## 🔥 Contribuições
 
-<p>
-  <a href="https://github.com/Radesca/PortalDenuncia-Reformulado">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=PortalDenuncia-Reformulado&theme=tokyonight&cache_seconds=86400&v=5"/>
-  </a>
-  <a href="https://github.com/Radesca/Flepic-iPaas">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=Flepic-iPaas&theme=tokyonight&cache_seconds=86400&v=5"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Radesca/SITE-REMSOFT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=SITE-REMSOFT&theme=tokyonight&cache_seconds=86400&v=5"/>
-  </a>
-  <a href="https://github.com/Radesca/PortFolio">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=PortFolio&theme=tokyonight&cache_seconds=86400&v=5"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radesca&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📚 Estudos & Faculdade
-> Exercícios, estruturas de dados, algoritmos e prática acadêmica.
+## 🛠️ Tecnologias
 
-<p>
-  <a href="https://github.com/Radesca/EXERCICIOS-C">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=EXERCICIOS-C&theme=tokyonight&cache_seconds=86400&v=5"/>
-  </a>
-  <a href="https://github.com/Radesca/EXERCICIOS-C--">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=EXERCICIOS-C--&theme=tokyonight&cache_seconds=86400&v=5"/>
-  </a>
-    <a href="https://github.com/Radesca/Exercicio-Revisao">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=Exercicio-Revisao&theme=tokyonight&cache_seconds=86400&v=5"/>
-  </a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,figma,git,github,vscode,mysql"/>
 </p>
 
 ---
 
-# 🧪 Experimentos & Clones
-<details>
-  <summary><b>Ver Projetos Experimentais</b></summary>
-  <br/>
+## 🎯 Atualmente
 
-  <p>
-    <a href="https://github.com/Radesca/Facebook-Login-Clone">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=Facebook-Login-Clone&theme=tokyonight&cache_seconds=86400&v=5"/>
-    </a>
-    <a href="https://github.com/Radesca/Instagram-Login-Clone">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=Instagram-Login-Clone&theme=tokyonight&cache_seconds=86400&v=5"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/Radesca/MilesMorales-HomePage-Clone">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Radesca&repo=MilesMorales-HomePage-Clone&theme=tokyonight&cache_seconds=86400&v=5"/>
-    </a>
-  </p>
-
-</details>
+- 🚀 Desenvolvendo projetos pessoais
+- 📚 Estudando ADS
+- 🎨 UI/UX Design
+- 💻 Front-End Development
 
 ---
 
-# 📊 Estatísticas
+## 🌎 Redes
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Radesca&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=86400&v=5" />
-</p>
+<p align="center">
+<a href="https://linkedin.com/in/seu-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Radesca&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400&v=5" />
+<a href="mailto:henriquedradesca@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:FF00FF&height=120&section=footer" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Radesca&color=blueviolet&style=for-the-badge"/>
+</p>
