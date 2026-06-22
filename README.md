@@ -39,7 +39,7 @@ Atualmente foco em criar interfaces modernas, acessíveis e funcionais.
 ## 📊 GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=donut&theme=midnight-purple&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
