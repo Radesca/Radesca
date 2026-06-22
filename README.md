@@ -27,7 +27,7 @@ Atualmente foco em criar interfaces modernas, acessíveis e funcionais.
 ## 🛠️ Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python" />
 </p>
 
 <p align="left">
