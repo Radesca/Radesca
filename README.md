@@ -1,70 +1,42 @@
-<div align="center">
+# Olá, eu sou o Henrique Radesca 👋
 
-# Henrique Radesca
-
-### Desenvolvedor Full Stack • UI/UX Designer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+projetos.;Sempre+aprendendo+algo+novo.;Desenvolvimento+e+Design." />
-
-</div>
-
-<br>
-
-## 👋 Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, design e desenvolvimento web.
-
-Atualmente foco em criar interfaces modernas, acessíveis e funcionais.
-
-- 💻 Desenvolvimento Front-End
-- 🎨 UI/UX Design
-- ⚡ JavaScript e PHP
-- 🗄️ Banco de Dados
-- 🚀 Projetos Reais
-
----
+**Desenvolvedor Full Stack · UI/UX Designer**
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por criar interfaces modernas, acessíveis e funcionais.
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+## 🚀 Projetos em destaque
 
----
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Estrada para o Céu](https://github.com/Radesca/Jogo-Estrada-Para-O-Ceu) · [demo](https://estrada-para-o-ceu.vercel.app) | Jogo web | JavaScript |
+| [AgroMonitor](https://github.com/Radesca/AgroMonitor) | Monitoramento agrícola (colaboração) | PHP |
+| [Finanças Pessoais](https://github.com/Radesca/financas-pessoais) | Gestão de finanças com arquivos indexados e árvore binária de busca; CLI e web | Python |
+| [Garimpo do Menor](https://github.com/Radesca/garimpo-do-menor) | Jogo para aprender selection sort | JavaScript |
+| [Conversor IPv4 → Binário](https://github.com/Radesca/Conversor-IPV4-Binario) | Conversor de endereços IPv4 | CSS/JS |
+| [Portfólio](https://github.com/Radesca/PortFolio) | Meu site pessoal | HTML/CSS |
+
+## 🎯 Agora
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Construindo projetos web reais
+- 🎨 Aprimorando UI/UX
+- ⚙️ Evoluindo em JavaScript e PHP
 
 ## 📊 GitHub
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=donut&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Atualmente
-
-- 📚 Estudando Análise e Desenvolvimento de Sistemas
-- 💻 Desenvolvendo projetos web
-- 🎨 Aprimorando habilidades em UI/UX
-- ⚙️ Evoluindo em JavaScript e PHP
-
----
+![Stats](https://github-readme-stats.vercel.app/api?username=Radesca&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radesca&layout=compact&hide_border=true)
 
 ## 📬 Contato
 
-<a href="mailto:henriquedradesca@gmail.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Radesca">
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=Radesca&color=7C3AED&style=flat-square)
+[![GitHub](https://img.shields.io/badge/GitHub-Radesca-181717?logo=github)](https://github.com/Radesca)
