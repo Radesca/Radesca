@@ -2,7 +2,7 @@
 
 # Henrique Radesca
 
-### Desenvolvedor Front-End • UI/UX Designer
+### Desenvolvedor Full Stack • UI/UX Designer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+projetos.;Sempre+aprendendo+algo+novo.;Desenvolvimento+e+Design." />
 
